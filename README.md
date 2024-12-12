@@ -17,3 +17,17 @@ This project is part of my journey to learn AutoML concepts and tools inspired b
 - **Plotly Express**: Interactive visualizations.
 - **Pandas Profiling**: For generating EDA reports.
 
+**Dependencies**
+Make sure you have the following Python libraries installed:
+
+- streamlit
+- pycaret
+- pandas
+- pandas-profiling
+- streamlit-pandas-profiling
+- plotly
+
+**Future Enhancements**
+- Add support for classification tasks.
+- Enhance the UI for a better user experience.
+- Implement more visualizations for the EDA phase.
