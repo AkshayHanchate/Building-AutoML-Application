@@ -1,4 +1,4 @@
-Learning AutoML with Streamlit and PyCaret
+# Learning AutoML with Streamlit and PyCaret
 
 This project is part of my journey to learn AutoML concepts and tools inspired by Nicholas Renotte's tutorials. The application helps users explore datasets, perform exploratory data analysis (EDA), and build machine learning models with minimal coding.
 
